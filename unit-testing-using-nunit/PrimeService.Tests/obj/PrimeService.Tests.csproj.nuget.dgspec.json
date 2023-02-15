@@ -80,12 +80,12 @@
         }
       }
     },
-    "C:\\Users\\1DAW_2223_09\\Documents\\PabloMateos_ExUD4-ED\\unit-testing-using-nunit\\PrimeService\\Primeservice.csproj": {
+    "C:\\Users\\1DAW_2223_09\\Documents\\PabloMateos_ExUD4-ED\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1DAW_2223_09\\Documents\\PabloMateos_ExUD4-ED\\unit-testing-using-nunit\\PrimeService\\Primeservice.csproj",
-        "projectName": "Primeservice",
-        "projectPath": "C:\\Users\\1DAW_2223_09\\Documents\\PabloMateos_ExUD4-ED\\unit-testing-using-nunit\\PrimeService\\Primeservice.csproj",
+        "projectUniqueName": "C:\\Users\\1DAW_2223_09\\Documents\\PabloMateos_ExUD4-ED\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
+        "projectName": "PrimeService",
+        "projectPath": "C:\\Users\\1DAW_2223_09\\Documents\\PabloMateos_ExUD4-ED\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
         "packagesPath": "C:\\Users\\1DAW_2223_09\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\1DAW_2223_09\\Documents\\PabloMateos_ExUD4-ED\\unit-testing-using-nunit\\PrimeService\\obj\\",
         "projectStyle": "PackageReference",

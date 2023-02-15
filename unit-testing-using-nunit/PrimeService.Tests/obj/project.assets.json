@@ -1254,14 +1254,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Primeservice/1.0.0": {
+      "PrimeService/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Primeservice.dll": {}
+          "bin/placeholder/PrimeService.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Primeservice.dll": {}
+          "bin/placeholder/PrimeService.dll": {}
         }
       }
     }
@@ -4953,10 +4953,10 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Primeservice/1.0.0": {
+    "PrimeService/1.0.0": {
       "type": "project",
-      "path": "../PrimeService/Primeservice.csproj",
-      "msbuildProject": "../PrimeService/Primeservice.csproj"
+      "path": "../PrimeService/PrimeService.csproj",
+      "msbuildProject": "../PrimeService/PrimeService.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4964,7 +4964,7 @@
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "NUnit >= 3.13.1",
       "NUnit3TestAdapter >= 3.17.0",
-      "Primeservice >= 1.0.0",
+      "PrimeService >= 1.0.0",
       "coverlet.collector >= 3.0.2"
     ]
   },
