@@ -1,0 +1,10 @@
+C:\Users\1DAW_2223_09\Documents\PabloMateos_ExUD4-ED\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+C:\Users\1DAW_2223_09\Documents\PabloMateos_ExUD4-ED\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+C:\Users\1DAW_2223_09\Documents\PabloMateos_ExUD4-ED\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+C:\Users\1DAW_2223_09\Documents\PabloMateos_ExUD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.AssemblyReference.cache
+C:\Users\1DAW_2223_09\Documents\PabloMateos_ExUD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1DAW_2223_09\Documents\PabloMateos_ExUD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\1DAW_2223_09\Documents\PabloMateos_ExUD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\Users\1DAW_2223_09\Documents\PabloMateos_ExUD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\1DAW_2223_09\Documents\PabloMateos_ExUD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+C:\Users\1DAW_2223_09\Documents\PabloMateos_ExUD4-ED\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
